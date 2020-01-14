@@ -1,0 +1,23 @@
+
+******* 9 Label(s) *******
+exit = $C04B 
+FillChar = $C00D 
+Frames = $C23F 
+Main = $C000 
+SameScanLine = $C02F 
+ScanLine = $C028 
+ScrollLine = $C03D 
+ScrollText = $C04C 
+StartScroll = $C005 
+
+******* 2 Unused label(s) *******
+exit
+Main
+
+******* 2 Variable(s) *******
+Screen  = $05E0
+tgt_c64  = $0001
+******* 2 Unused variables(s) *******
+Screen
+tgt_c64
+
